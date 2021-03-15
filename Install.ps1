@@ -1,4 +1,4 @@
-# start with Invoke-WebRequest -Uri "https://github.com/jonnyVarn/WindowsServerUppgift/blob/main/Install.ps1" -OutFile "C:\Users\superjonny
+# start with Invoke-WebRequest -Uri "https://github.com/jonnyVarn/WindowsServerUppgift/blob/main/Install.ps1" -OutFile "C:\Users\Administrator\Desktop
 
 #first we need to install some stuff
 Install-WindowsFeature -name AD-Domain-Services -IncludeManagementTools“
